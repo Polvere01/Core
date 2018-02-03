@@ -1,0 +1,4 @@
+.net Core				.net Framework
+mais novo				vai parar de ser usado
+menos classes				tem mais classes 120 mil
+asp.net core				asp.net core
