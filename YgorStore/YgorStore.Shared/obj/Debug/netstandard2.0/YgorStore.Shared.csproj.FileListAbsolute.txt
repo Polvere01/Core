@@ -1,0 +1,8 @@
+C:\Git\Core\YgorStore\YgorStore.Shared\bin\Debug\netstandard2.0\YgorStore.Shared.deps.json
+C:\Git\Core\YgorStore\YgorStore.Shared\bin\Debug\netstandard2.0\YgorStore.Shared.dll
+C:\Git\Core\YgorStore\YgorStore.Shared\bin\Debug\netstandard2.0\YgorStore.Shared.pdb
+C:\Git\Core\YgorStore\YgorStore.Shared\obj\Debug\netstandard2.0\YgorStore.Shared.csproj.CoreCompileInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Shared\obj\Debug\netstandard2.0\YgorStore.Shared.AssemblyInfoInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Shared\obj\Debug\netstandard2.0\YgorStore.Shared.AssemblyInfo.cs
+C:\Git\Core\YgorStore\YgorStore.Shared\obj\Debug\netstandard2.0\YgorStore.Shared.dll
+C:\Git\Core\YgorStore\YgorStore.Shared\obj\Debug\netstandard2.0\YgorStore.Shared.pdb

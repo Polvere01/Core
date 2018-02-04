@@ -1,0 +1,8 @@
+C:\Git\Core\YgorStore\YgorStore.Infra\bin\Debug\netstandard2.0\YgorStore.Infra.deps.json
+C:\Git\Core\YgorStore\YgorStore.Infra\bin\Debug\netstandard2.0\YgorStore.Infra.dll
+C:\Git\Core\YgorStore\YgorStore.Infra\bin\Debug\netstandard2.0\YgorStore.Infra.pdb
+C:\Git\Core\YgorStore\YgorStore.Infra\obj\Debug\netstandard2.0\YgorStore.Infra.csproj.CoreCompileInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Infra\obj\Debug\netstandard2.0\YgorStore.Infra.AssemblyInfoInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Infra\obj\Debug\netstandard2.0\YgorStore.Infra.AssemblyInfo.cs
+C:\Git\Core\YgorStore\YgorStore.Infra\obj\Debug\netstandard2.0\YgorStore.Infra.dll
+C:\Git\Core\YgorStore\YgorStore.Infra\obj\Debug\netstandard2.0\YgorStore.Infra.pdb

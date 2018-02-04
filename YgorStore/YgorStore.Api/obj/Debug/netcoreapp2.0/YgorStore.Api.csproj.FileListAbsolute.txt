@@ -1,0 +1,10 @@
+C:\Git\Core\YgorStore\YgorStore.Api\bin\Debug\netcoreapp2.0\YgorStore.Api.deps.json
+C:\Git\Core\YgorStore\YgorStore.Api\bin\Debug\netcoreapp2.0\YgorStore.Api.runtimeconfig.json
+C:\Git\Core\YgorStore\YgorStore.Api\bin\Debug\netcoreapp2.0\YgorStore.Api.runtimeconfig.dev.json
+C:\Git\Core\YgorStore\YgorStore.Api\bin\Debug\netcoreapp2.0\YgorStore.Api.dll
+C:\Git\Core\YgorStore\YgorStore.Api\bin\Debug\netcoreapp2.0\YgorStore.Api.pdb
+C:\Git\Core\YgorStore\YgorStore.Api\obj\Debug\netcoreapp2.0\YgorStore.Api.csproj.CoreCompileInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Api\obj\Debug\netcoreapp2.0\YgorStore.Api.AssemblyInfoInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Api\obj\Debug\netcoreapp2.0\YgorStore.Api.AssemblyInfo.cs
+C:\Git\Core\YgorStore\YgorStore.Api\obj\Debug\netcoreapp2.0\YgorStore.Api.dll
+C:\Git\Core\YgorStore\YgorStore.Api\obj\Debug\netcoreapp2.0\YgorStore.Api.pdb

@@ -1,0 +1,13 @@
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\YgorStore.Tests.deps.json
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\YgorStore.Tests.runtimeconfig.json
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\YgorStore.Tests.runtimeconfig.dev.json
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\YgorStore.Tests.dll
+C:\Git\Core\YgorStore\YgorStore.Tests\bin\Debug\netcoreapp2.0\YgorStore.Tests.pdb
+C:\Git\Core\YgorStore\YgorStore.Tests\obj\Debug\netcoreapp2.0\YgorStore.Tests.csproj.CoreCompileInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Tests\obj\Debug\netcoreapp2.0\YgorStore.Tests.AssemblyInfoInputs.cache
+C:\Git\Core\YgorStore\YgorStore.Tests\obj\Debug\netcoreapp2.0\YgorStore.Tests.AssemblyInfo.cs
+C:\Git\Core\YgorStore\YgorStore.Tests\obj\Debug\netcoreapp2.0\YgorStore.Tests.dll
+C:\Git\Core\YgorStore\YgorStore.Tests\obj\Debug\netcoreapp2.0\YgorStore.Tests.pdb

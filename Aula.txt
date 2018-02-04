@@ -3,3 +3,22 @@ Aula 3
 mais novo				vai parar de ser usado
 menos classes				tem mais classes 120 mil
 asp.net core				asp.net core
+
+Aula 4 Organização da solucion
+
+Sempre tem que haver 5 projetos.
+
+Eu usei o powershell. Criar pastas mkdir nomepasta. cd para acessar as pastas.
+
+XXX.domain = regras de negocio. class libary. gera uma dll
+XXX.Api = é o nosso output. responsavel para devolver o json projeto web
+XXX.Shared = Class library
+XXX.Test = Arquivo vs.
+XXX.Infra =  Class library
+
+De onde retirado os comandos dotnet. colocar no google, https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x
+
+dotnet new web criar uma aplicação web vazia
+dotnet new classlib criar uma aplicação classlib
+dotnet new mstest criar uma aplicação de tests
+dotnet new sln criamos a solution
