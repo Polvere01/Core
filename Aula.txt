@@ -22,3 +22,11 @@ dotnet new web criar uma aplicação web vazia
 dotnet new classlib criar uma aplicação classlib
 dotnet new mstest criar uma aplicação de tests
 dotnet new sln criamos a solution
+
+explicar para solution quem faz parte dela :
+entao adicionamos o projeto(csproj's) a sln
+
+command = dotnet sln add caminho do csproj.  
+
+dotnet restore = restaurar todos os pacotes da minha aplicação
+dotnet build = compila aplicação
