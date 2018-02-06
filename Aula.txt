@@ -4,23 +4,23 @@ mais novo				vai parar de ser usado
 menos classes				tem mais classes 120 mil
 asp.net core				asp.net core
 
-Aula 4 Organiza��o da solucion
+Aula 4 Organiza��o da solucion
 
 Sempre tem que haver 5 projetos.
 
 Eu usei o powershell. Criar pastas mkdir nomepasta. cd para acessar as pastas.
 
 XXX.domain = regras de negocio. class libary. gera uma dll
-XXX.Api = � o nosso output. responsavel para devolver o json projeto web
+XXX.Api = � o nosso output. responsavel para devolver o json projeto web
 XXX.Shared = Class library
 XXX.Test = Arquivo vs.
 XXX.Infra =  Class library
 
 De onde retirado os comandos dotnet. colocar no google, https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x
 
-dotnet new web criar uma aplica��o web vazia
-dotnet new classlib criar uma aplica��o classlib
-dotnet new mstest criar uma aplica��o de tests
+dotnet new web criar uma aplica��o web vazia
+dotnet new classlib criar uma aplica��o classlib
+dotnet new mstest criar uma aplica��o de tests
 dotnet new sln criamos a solution
 
 explicar para solution quem faz parte dela :
@@ -28,5 +28,56 @@ entao adicionamos o projeto(csproj's) a sln
 
 command = dotnet sln add caminho do csproj.  
 
-dotnet restore = restaurar todos os pacotes da minha aplica��o
-dotnet build = compila aplica��o
+dotnet restore = restaurar todos os pacotes da minha aplica��o
+dotnet build = compila aplica��o
+
+Aula 5
+
+Orientação objeto
+
+Dominio rico x Dominio pobre
+
+Dominio rico é quando utilizamos totalmente a Orientação ao objeto. Resolvendo todos os problemas do software.
+Resolver problemas do nosso dominio. domain é o coração do software. utilzamos Orientação ao objeto.
+Dominio anemico usa proc é usado quando usa regra de negocio.
+Decisões de negocio tem que ser definidos no dominio rico. Motivos c# mais completo e conseguimos testar
+Dominio ricos viramos domain expert. Não ha possibilidade de ser isso sem entender a regra de negocio.
+DOminio rico vira nosso mundo real.
+
+Aula 6
+
+Sub dominios
+
+usado em grandes projetos. Divisoes para conseguir conquistar. Quebrar o sistema em sub dominio. Comunicação 
+cada sub dominio. Gerenciar cada dominio de forma diferente mas precisa de Comunicação.
+
+Aula 7
+
+Separação em contextos demilitados
+
+sistema
+    varios sub dominio
+        n contextos demilitados
+
+Não obrigado ter varios dominios para existir contextos demilitados
+Encontrar classes com mesmo nome mas em contextos diferente
+Como separamos por pastas ou projetos. quando for mt grande é projeto. fica dentro da domain
+Contexto por solution quando o projeto é mt grande mesmo
+
+Aula 8
+
+OOP - Orientação ao objeto
+
+O que é Orientação ao objeto?
+    se basear casos reais e transpor para códigos.
+Mapeamos objetos para nosso codigo.
+Classe Seria um molde.
+toda vezes que usamos new estamos instanciado o objeto.
+O que precisamos uma clase.
+    Importação do que precisamos para clasee using
+        Dominio puro sem mt dependencia de pacotes.
+        Quanto menos pacote é melhor.
+    namespace
+        Divisoes logicas. Sempre associados com o pai Ex: Domain(pai) namespace domain.StoreContext.
+        ele q vira a dll. nao pode colocar 2 classes no mesmo namespace.
+    e a class
